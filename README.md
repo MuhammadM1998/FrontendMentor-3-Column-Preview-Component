@@ -38,8 +38,8 @@ Active States
 
 ### Links
 
--   [Solution URL](https://github.com/MuhammadM1998/3-Column-Preview-Component)
--   [Live Site URL](https://muhammadm1998.github.io/3-Column-Preview-Component/)
+-   [Solution URL](https://github.com/MuhammadM1998/FrontendMentor-3-Column-Preview-Component)
+-   [Live Site URL](https://muhammadm1998.github.io/FrontendMentor-3-Column-Preview-Component/)
 
 ## My process
 
